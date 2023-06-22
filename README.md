@@ -1,2 +1,2 @@
 # NASA
-Educational Purpose only 
+This Project made only for Educational purpose 
