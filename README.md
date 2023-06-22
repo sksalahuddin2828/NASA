@@ -1,5 +1,5 @@
 # NASA - Solar System Simulator
-# I made this project for Stanford University, below is the link to the project:
+<h2>I made this project for Stanford University, below is the link to the project:</h2>
 
 Final Project, Name is: (Solar System Simulator)
 https://codeinplace.stanford.edu/cip3/share/7p0x7vT4bvNbDLSd5dST
