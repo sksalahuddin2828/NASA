@@ -1,15 +1,11 @@
 # NASA - Solar System Simulator
 <h2>I made this project for Stanford University California United States, below is the link to the project:</h2>
 
-<h3>Certificate from Stanford University</h3>
-
-https://codeinplace.stanford.edu/cip3/certificate/7zjx9t
-
-Final Project, Name is: (Solar System Simulator)
+<h3>Final Project, Name is: (Solar System Simulator)</h3>
 
 https://codeinplace.stanford.edu/cip3/share/7p0x7vT4bvNbDLSd5dST
 
-A bit slower:
+<h3>A bit slower:</h3>
 
 https://codeinplace.stanford.edu/cip3/share/AaXJFmMjVVdA3wD1STjr
 
