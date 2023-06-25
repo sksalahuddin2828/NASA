@@ -9,7 +9,7 @@ https://codeinplace.stanford.edu/cip3/share/7p0x7vT4bvNbDLSd5dST
 
 https://codeinplace.stanford.edu/cip3/share/AaXJFmMjVVdA3wD1STjr
 
-<h2>This GitHub Project made only for Educational purpose. Please don't copy or sale.</h2>
+<h2>This GitHub Project made only for Educational purpose. Warning: Please don't sell this to anyone.</h2>
 
 
 <h3>Description:</h3>
