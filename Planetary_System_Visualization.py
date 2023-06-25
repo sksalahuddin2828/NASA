@@ -1,8 +1,8 @@
 import math
 import pygame
 
-SCREEN_WIDTH = 1800
-SCREEN_HEIGHT = 1800
+SCREEN_WIDTH = 2160
+SCREEN_HEIGHT = 2160
 SUN_RADIUS = 50
 
 # Planet data: name, radius, orbit radius, orbit speed, color
