@@ -2,9 +2,8 @@ import math
 import pygame
 from pygame.locals import *
 
-SCREEN_WIDTH = 1580
-SCREEN_HEIGHT = 1580
-
+SCREEN_WIDTH = 1850
+SCREEN_HEIGHT = 1850
 SUN_RADIUS = 50
 
 # Speed up
