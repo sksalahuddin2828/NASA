@@ -19,10 +19,13 @@ def update(frame):
     ax.set_title('3D Earth Rotation')
 
 # Set up the animation
-ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=50)
-
-# Set up the animation faster
-# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=20)
-# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=0)
-
+ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=0)
 plt.show()
+
+#--------------------------------------------------------------------------------------------------------
+
+# Set up the animation slower
+# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=20)
+# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=50)
+
+# plt.show()
