@@ -1,0 +1,28 @@
+import matplotlib.pyplot as plt
+from mpl_toolkits.basemap import Basemap
+from matplotlib.animation import FuncAnimation
+
+# Set up the figure and axes
+fig = plt.figure()
+ax = fig.add_subplot(111)
+
+# Create a Basemap instance
+m = Basemap(projection='ortho', lat_0=0, lon_0=0, resolution='l')
+
+def update(frame):
+    ax.cla()  # Clear the axes
+    m = Basemap(projection='ortho', lat_0=0, lon_0=frame, resolution='l')  # Update lon_0 for rotation
+    m.drawcoastlines(color='gray')
+    m.drawparallels(range(-90, 91, 30), labels=[1, 0, 0, 0])
+    m.drawmeridians(range(-180, 181, 60), labels=[0, 0, 0, 1])
+    m.bluemarble()  # Display the Blue Marble image
+    ax.set_title('3D Earth Rotation')
+
+# Set up the animation
+ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=50)
+
+# Set up the animation faster
+# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=20)
+# ani = FuncAnimation(fig, update, frames=range(0, 360, 2), interval=0)
+
+plt.show()
