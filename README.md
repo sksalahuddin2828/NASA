@@ -5,7 +5,7 @@
 
 https://codeinplace.stanford.edu/cip3/share/7p0x7vT4bvNbDLSd5dST
 
-<h3>A bit slower:</h3>
+<h3>A bit slower: (Planet Rotation)</h3>
 
 https://codeinplace.stanford.edu/cip3/share/AaXJFmMjVVdA3wD1STjr
 
