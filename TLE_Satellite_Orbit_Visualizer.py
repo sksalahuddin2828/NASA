@@ -1,4 +1,4 @@
-# In this code, the TLE data for the five satellites is provided in the tle_data list. The satellite_names list holds
+# The TLE data for the five satellites is provided in the tle_data list. The satellite_names list holds
 # the names of the satellites, and satellite_colors determines the colors used for plotting each satellite's orbit.
 
 # The code uses the mayavi.mlab module to create the 3D plot and mlab.animate to animate the orbits.
