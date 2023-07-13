@@ -52,8 +52,7 @@ mlab.title("Satellite Orbits")
 def animate():
     while True:
         for satellite in satellites:
-            satellite.mlab_source.trait_set(x=satellite.mlab_source.x[1:], y=satellite.mlab_source.y[1:],
-                                            z=satellite.mlab_source.z[1:])
+            satellite.mlab_source.trait_set(x=satellite.mlab_source.x[1:], y=satellite.mlab_source.y[1:], z=satellite.mlab_source.z[1:])
         yield
 
 # Start the animation
