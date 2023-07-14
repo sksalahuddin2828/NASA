@@ -30,5 +30,3 @@ if __name__ == '__main__':
 
 # 3. Calculating the weight on Mars, which I do by multiplying the Earth weight by 0.378. 
 # To make the program easy to read, I store this number in a constant called MARS_MULTIPLE.
-
-# Check out the solution code to see all of these stages in action.
